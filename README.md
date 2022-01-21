@@ -33,7 +33,7 @@ make
 
 The data set can be found in the _dataset_ folder. The point clouds are split into target (_ceiling_) and source (_robot_). The source clouds are further split into clouds at different positions with overlap (_k*_) and without overlap (_f*_). For each position, multiple rotations were captured.
 
-The data set has been preprocessed using voxelization with a voxel size of $0.05 m^3$ and a radius outlier removal with a radius of 0.1 m and a required neighoring point count of four.
+The data set has been preprocessed using voxelization with a voxel size of 0.05 m³ and a radius outlier removal with a radius of 0.1 m and a required neighoring point count of four.
 
 ## Citation
 
