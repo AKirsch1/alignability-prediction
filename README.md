@@ -8,7 +8,7 @@ Point cloud registration is often used in fields like SLAM where the overlap of 
 
 - C++
  - Point Cloud Library (Version 1.8)
-- Python
+- Python 3
  - scikit-learn==0.24.1
  - pandas==1.2.4
  - matplotlib==3.3.4
@@ -37,9 +37,11 @@ The data set has been preprocessed using voxelization with a voxel size of 0.05 
 
 ## Citation
 
-TDB
-
-## TODO
-
-- Add license
-- Add citation
+```
+@inproceedings{kirsch2022,
+    author = {Kirsch, André and Günter, Andrei and König, Matthias},
+    title = {Predicting Alignability of Point Cloud Pairs for Point Cloud Registration Using Features},
+    booktitle = {12th International Conference on Pattern Recognition Systems (ICPRS)},
+    year = {2022}
+}
+```
