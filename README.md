@@ -42,6 +42,7 @@ The data set has been preprocessed using voxelization with a voxel size of 0.05 
     author = {Kirsch, André and Günter, Andrei and König, Matthias},
     title = {Predicting Alignability of Point Cloud Pairs for Point Cloud Registration Using Features},
     booktitle = {12th International Conference on Pattern Recognition Systems (ICPRS)},
-    year = {2022}
+    year = {2022},
+    doi = {10.1109/ICPRS54038.2022.9854071}
 }
 ```
